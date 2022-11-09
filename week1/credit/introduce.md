@@ -38,3 +38,6 @@ That’s kind of confusing, so let’s try an example with David’s Visa: 40036
   
 
 So, validating credit card numbers isn’t hard, but it does get a bit tedious by hand. Let’s write a program.
+
+Here are a few card numbers that PayPal recommends for testing:
+https://developer.paypal.com/api/nvp-soap/payflow/integration-guide/test-transactions/#standard-test-cards
