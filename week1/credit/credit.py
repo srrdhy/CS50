@@ -15,7 +15,7 @@ while(num > 0):
     else:
         sum += digit
     num = num // 10
-print(sum)
+#print(sum)
 cardtype = "INVALID"
 
 if(sum % 10 == 0):
