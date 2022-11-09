@@ -34,3 +34,6 @@
 是的，总和 (20) 中的最后一个数字是 0，所以大卫的卡是合法的！
 
 因此，验证信用卡号码并不难，但手工操作确实有点乏味。让我们编写一个程序。
+
+以下是PayPal 推荐用于测试的一些卡号:
+https://developer.paypal.com/api/nvp-soap/payflow/integration-guide/test-transactions/#standard-test-cards
